@@ -1,0 +1,10 @@
+style.css bestand:
+
+1) groene kleur: #23b684 nu zwart gemaakt: #000
+2) paarse kleur: #8e44ad nu grijs gemaakt: #808080
+
+
+owl.carousel.css bestand:
+
+
+1) groene kleur: #23b684 nu lichtgrijs gemaakt: #C0C0C0
